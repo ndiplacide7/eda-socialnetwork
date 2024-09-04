@@ -1,0 +1,23 @@
+# IntelliJ IDEA specific files
+.idea
+*.iml
+*.iws
+*.ipr
+*.idv
+*.log
+*.hprof
+
+# Rust specific files
+target/
+*.rs.bak
+
+# ScyllaDB specific files
+data/
+logs/
+
+# Other common files
+*.swp
+*.bak
+*.tmp
+*.log
+*.pid

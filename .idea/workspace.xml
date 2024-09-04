@@ -4,11 +4,66 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1002d110-9d01-4c6e-8cee-ada3d47c3835" name="Changes" comment="" />
+    <list default="true" id="1002d110-9d01-4c6e-8cee-ada3d47c3835" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/backend.dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/consumer.dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/frontend.dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/handlers.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/cards.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/cover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/favicon/about.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/favicon/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/favicon/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/favicon/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/favicon/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/favicon/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/favicon/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/favicon/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/fortune.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/glitch.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/loser.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/scylla.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/winner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/templates/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/templates/analytics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/templates/community.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/templates/followers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/templates/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/templates/fortune.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/templates/fortune_result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/templates/nav-item.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/templates/nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/templates/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/templates/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/templates/redirectfollower.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="master" />
+    <option name="OPTIONS">
+      <set>
+        <option value="COMMIT_MESSAGE" />
+      </set>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -69,7 +124,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/ndu148985/IdeaProjects/eda-socialnetwork",
     "node.js.detected.package.eslint": "true",
@@ -81,6 +136,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ndu148985\IdeaProjects\eda-socialnetwork" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -104,7 +164,8 @@
       <workItem from="1725452907097" duration="448000" />
       <workItem from="1725453462624" duration="12000" />
       <workItem from="1725453483640" duration="535000" />
-      <workItem from="1725454090544" duration="671000" />
+      <workItem from="1725454090544" duration="1316000" />
+      <workItem from="1725455428891" duration="504000" />
     </task>
     <servers />
   </component>
